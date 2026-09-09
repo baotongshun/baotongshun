@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-labelledby="shipTitle">
+  <title id="shipTitle">Container ship silhouette</title>
+  <defs>
+    <linearGradient id="waterGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1C69D4" stop-opacity="0.0"/>
+      <stop offset="1" stop-color="#1C69D4" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <!-- Sky/background (transparent area) -->
+  <!-- Water -->
+  <rect x="0" y="440" width="1200" height="160" fill="url(#waterGrad)"/>
+  <g stroke="#1C69D4" stroke-width="1.4" fill="none" opacity="0.4">
+    <path d="M0 470 Q50 466 100 470 T200 470 T300 470 T400 470 T500 470 T600 470 T700 470 T800 470 T900 470 T1000 470 T1100 470 T1200 470"/>
+    <path d="M0 500 Q50 496 100 500 T200 500 T300 500 T400 500 T500 500 T600 500 T700 500 T800 500 T900 500 T1000 500 T1100 500 T1200 500"/>
+    <path d="M0 540 Q50 536 100 540 T200 540 T300 540 T400 540 T500 540 T600 540 T700 540 T800 540 T900 540 T1000 540 T1100 540 T1200 540"/>
+  </g>
+  <!-- Ship hull (ink) -->
+  <path d="M120 420 L1080 420 L1050 480 L150 480 Z" fill="#0B0B10"/>
+  <!-- Hull stripe -->
+  <path d="M150 420 L1050 420 L1042 432 L158 432 Z" fill="#1C69D4"/>
+  <!-- Hull portholes -->
+  <g fill="#FFFFFF" opacity="0.6">
+    <circle cx="240" cy="450" r="3"/>
+    <circle cx="290" cy="450" r="3"/>
+    <circle cx="340" cy="450" r="3"/>
+    <circle cx="390" cy="450" r="3"/>
+    <circle cx="440" cy="450" r="3"/>
+    <circle cx="490" cy="450" r="3"/>
+    <circle cx="540" cy="450" r="3"/>
+    <circle cx="590" cy="450" r="3"/>
+    <circle cx="640" cy="450" r="3"/>
+    <circle cx="690" cy="450" r="3"/>
+    <circle cx="740" cy="450" r="3"/>
+    <circle cx="790" cy="450" r="3"/>
+    <circle cx="840" cy="450" r="3"/>
+    <circle cx="890" cy="450" r="3"/>
+    <circle cx="940" cy="450" r="3"/>
+    <circle cx="990" cy="450" r="3"/>
+  </g>
+  <!-- Bridge tower -->
+  <rect x="980" y="320" width="80" height="100" fill="#0B0B10"/>
+  <rect x="990" y="290" width="60" height="40" fill="#0B0B10"/>
+  <rect x="998" y="296" width="44" height="20" fill="#1C69D4"/>
+  <rect x="984" y="340" width="14" height="20" fill="#1C69D4"/>
+  <rect x="1004" y="340" width="14" height="20" fill="#FFFFFF" opacity="0.4"/>
+  <rect x="1024" y="340" width="14" height="20" fill="#1C69D4"/>
+  <rect x="1044" y="340" width="14" height="20" fill="#FFFFFF" opacity="0.4"/>
+  <!-- Funnel -->
+  <rect x="1010" y="240" width="22" height="60" fill="#0B0B10"/>
+  <rect x="1006" y="232" width="30" height="10" fill="#C9A24B"/>
+  <text x="1021" y="262" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#C9A24B" text-anchor="middle">BS</text>
+  <!-- Mast -->
+  <line x1="1020" y1="240" x2="1020" y2="180" stroke="#0B0B10" stroke-width="2"/>
+  <line x1="1006" y1="200" x2="1034" y2="200" stroke="#0B0B10" stroke-width="1.5"/>
+  <!-- Container stacks (back row) -->
+  <g>
+    <rect x="180" y="340" width="80" height="40" fill="#1C69D4"/>
+    <rect x="180" y="380" width="80" height="40" fill="#FF6F00"/>
+    <rect x="262" y="340" width="80" height="40" fill="#6FB07F"/>
+    <rect x="262" y="380" width="80" height="40" fill="#1C69D4"/>
+    <rect x="344" y="340" width="80" height="40" fill="#C9A24B"/>
+    <rect x="344" y="380" width="80" height="40" fill="#1C69D4"/>
+    <rect x="426" y="340" width="80" height="40" fill="#FF6F00"/>
+    <rect x="426" y="380" width="80" height="40" fill="#6FB07F"/>
+    <rect x="508" y="340" width="80" height="40" fill="#1C69D4"/>
+    <rect x="508" y="380" width="80" height="40" fill="#C9A24B"/>
+    <rect x="590" y="340" width="80" height="40" fill="#6FB07F"/>
+    <rect x="590" y="380" width="80" height="40" fill="#FF6F00"/>
+    <rect x="672" y="340" width="80" height="40" fill="#1C69D4"/>
+    <rect x="672" y="380" width="80" height="40" fill="#C9A24B"/>
+    <rect x="754" y="340" width="80" height="40" fill="#FF6F00"/>
+    <rect x="754" y="380" width="80" height="40" fill="#1C69D4"/>
+    <rect x="836" y="340" width="80" height="40" fill="#6FB07F"/>
+    <rect x="836" y="380" width="80" height="40" fill="#1C69D4"/>
+    <!-- Top row -->
+    <rect x="200" y="300" width="60" height="40" fill="#C9A24B"/>
+    <rect x="282" y="300" width="60" height="40" fill="#1C69D4"/>
+    <rect x="364" y="300" width="60" height="40" fill="#6FB07F"/>
+    <rect x="446" y="300" width="60" height="40" fill="#FF6F00"/>
+    <rect x="528" y="300" width="60" height="40" fill="#C9A24B"/>
+    <rect x="610" y="300" width="60" height="40" fill="#1C69D4"/>
+    <rect x="692" y="300" width="60" height="40" fill="#6FB07F"/>
+    <rect x="774" y="300" width="60" height="40" fill="#C9A24B"/>
+    <rect x="856" y="300" width="60" height="40" fill="#FF6F00"/>
+  </g>
+  <!-- Container outlines -->
+  <g fill="none" stroke="#0B0B10" stroke-width="0.8" opacity="0.5">
+    <rect x="180" y="340" width="80" height="40"/>
+    <rect x="262" y="340" width="80" height="40"/>
+    <rect x="344" y="340" width="80" height="40"/>
+    <rect x="426" y="340" width="80" height="40"/>
+    <rect x="508" y="340" width="80" height="40"/>
+    <rect x="590" y="340" width="80" height="40"/>
+    <rect x="672" y="340" width="80" height="40"/>
+    <rect x="754" y="340" width="80" height="40"/>
+    <rect x="836" y="340" width="80" height="40"/>
+  </g>
+  <!-- Bow detail -->
+  <path d="M120 420 L150 480 L150 420 Z" fill="#0B0B10"/>
+  <!-- Anchor symbol on funnel -->
+  <text x="1021" y="280" font-family="Inter, sans-serif" font-size="6" fill="#0B0B10" text-anchor="middle">⚓</text>
+</svg>

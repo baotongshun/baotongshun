@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="t16">
+  <title id="t16">Compliance</title>
+  <path d="M12 3 L20 6 V12 A8 8 0 0 1 12 21 A8 8 0 0 1 4 12 V6 Z"/>
+  <polyline points="8.5,12 11,14.5 15.5,9.5"/>
+</svg>

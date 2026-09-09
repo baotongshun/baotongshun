@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-labelledby="swTitle">
+  <title id="swTitle">WhatsApp</title>
+  <rect x="0" y="0" width="32" height="32" rx="6" fill="#25D366"/>
+  <text x="16" y="21" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.5">WA</text>
+</svg>

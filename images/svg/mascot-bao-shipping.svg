@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-labelledby="baoShipTitle">
+  <title id="baoShipTitle">Bao the otter shipping — captain mode</title>
+  <!-- Background -->
+  <rect width="240" height="240" fill="#FFFFFF"/>
+  <!-- Floor shadow -->
+  <ellipse cx="120" cy="220" rx="64" ry="5" fill="#0B0B10" opacity="0.08"/>
+  <!-- Container on right -->
+  <g transform="translate(168 158)">
+    <rect x="0" y="6" width="58" height="40" fill="#1C69D4"/>
+    <rect x="0" y="6" width="58" height="40" fill="none" stroke="#0B0B10" stroke-width="1.4"/>
+    <line x1="14" y1="6" x2="14" y2="46" stroke="#0B0B10" stroke-width="0.8" opacity="0.5"/>
+    <line x1="28" y1="6" x2="28" y2="46" stroke="#0B0B10" stroke-width="0.8" opacity="0.5"/>
+    <line x1="44" y1="6" x2="44" y2="46" stroke="#0B0B10" stroke-width="0.8" opacity="0.5"/>
+    <text x="29" y="30" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF" text-anchor="middle">BAO</text>
+    <rect x="0" y="2" width="58" height="6" fill="#0B0B10" opacity="0.4"/>
+  </g>
+  <!-- Body -->
+  <path d="M64 200 Q64 144 110 138 Q156 144 156 200 Q156 210 146 212 L74 212 Q64 210 64 200 Z" fill="#8B5E3C"/>
+  <!-- Belly -->
+  <path d="M84 200 Q84 156 110 154 Q136 156 136 200 Q136 208 128 210 L92 210 Q84 208 84 200 Z" fill="#F4E4C1"/>
+  <!-- Right arm holding clipboard -->
+  <path d="M140 160 Q156 168 156 188 Q152 196 144 194 Q138 184 134 174 Z" fill="#8B5E3C"/>
+  <ellipse cx="148" cy="194" rx="9" ry="8" fill="#F4E4C1"/>
+  <!-- Left arm -->
+  <path d="M80 158 Q66 178 68 198 Q74 204 82 202 Q86 188 88 174 Z" fill="#8B5E3C"/>
+  <ellipse cx="76" cy="200" rx="9" ry="7" fill="#F4E4C1"/>
+  <!-- Clipboard in left hand -->
+  <g transform="translate(70 178)">
+    <rect x="0" y="0" width="34" height="40" rx="2" fill="#FFFFFF" stroke="#0B0B10" stroke-width="1.4"/>
+    <rect x="11" y="-3" width="12" height="6" rx="1" fill="#0B0B10"/>
+    <line x1="5" y1="10" x2="29" y2="10" stroke="#1C69D4" stroke-width="1.2"/>
+    <line x1="5" y1="16" x2="29" y2="16" stroke="#0B0B10" stroke-width="0.8" opacity="0.5"/>
+    <line x1="5" y1="21" x2="29" y2="21" stroke="#0B0B10" stroke-width="0.8" opacity="0.5"/>
+    <line x1="5" y1="26" x2="22" y2="26" stroke="#0B0B10" stroke-width="0.8" opacity="0.5"/>
+    <polyline points="22,30 25,33 30,28" fill="none" stroke="#6FB07F" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Head -->
+  <ellipse cx="110" cy="98" rx="56" ry="54" fill="#8B5E3C"/>
+  <!-- Ears -->
+  <circle cx="68" cy="58" r="11" fill="#8B5E3C"/>
+  <circle cx="68" cy="58" r="6" fill="#F4E4C1"/>
+  <circle cx="152" cy="58" r="11" fill="#8B5E3C"/>
+  <circle cx="152" cy="58" r="6" fill="#F4E4C1"/>
+  <!-- Captain hat -->
+  <ellipse cx="110" cy="44" rx="56" ry="6" fill="#0B0B10"/>
+  <path d="M70 44 Q70 14 110 12 Q150 14 150 44 Z" fill="#0B0B10"/>
+  <rect x="68" y="42" width="84" height="6" fill="#C9A24B"/>
+  <circle cx="110" cy="28" r="8" fill="#C9A24B"/>
+  <path d="M110 22 L112 27 L117 27 L113 30 L115 35 L110 32 L105 35 L107 30 L103 27 L108 27 Z" fill="#0B0B10"/>
+  <!-- Face mask -->
+  <ellipse cx="110" cy="110" rx="40" ry="36" fill="#F4E4C1"/>
+  <!-- Eyes -->
+  <ellipse cx="92" cy="100" rx="6" ry="8" fill="#0B0B10"/>
+  <ellipse cx="128" cy="100" rx="6" ry="8" fill="#0B0B10"/>
+  <circle cx="94" cy="97" r="2" fill="#FFFFFF"/>
+  <circle cx="130" cy="97" r="2" fill="#FFFFFF"/>
+  <!-- Cheek blush -->
+  <ellipse cx="78" cy="120" rx="6" ry="3" fill="#FF6F00" opacity="0.18"/>
+  <ellipse cx="142" cy="120" rx="6" ry="3" fill="#FF6F00" opacity="0.18"/>
+  <!-- Nose -->
+  <path d="M104 118 Q110 112 116 118 Q114 124 110 124 Q106 124 104 118 Z" fill="#0B0B10"/>
+  <!-- Mouth -->
+  <path d="M110 124 L110 130" stroke="#0B0B10" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M110 130 Q104 136 100 132" fill="none" stroke="#0B0B10" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M110 130 Q116 136 120 132" fill="none" stroke="#0B0B10" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="90" y1="122" x2="70" y2="120" stroke="#5C3A20" stroke-width="0.9" stroke-linecap="round"/>
+  <line x1="90" y1="126" x2="70" y2="128" stroke="#5C3A20" stroke-width="0.9" stroke-linecap="round"/>
+  <line x1="130" y1="122" x2="150" y2="120" stroke="#5C3A20" stroke-width="0.9" stroke-linecap="round"/>
+  <line x1="130" y1="126" x2="150" y2="128" stroke="#5C3A20" stroke-width="0.9" stroke-linecap="round"/>
+</svg>

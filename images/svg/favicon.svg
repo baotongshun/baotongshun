@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-labelledby="fvTitle">
+  <title id="fvTitle">BAOSHUN favicon</title>
+  <rect x="0" y="0" width="32" height="32" rx="6" fill="#0B0B10"/>
+  <circle cx="16" cy="16" r="12" fill="none" stroke="#1C69D4" stroke-width="1.4"/>
+  <ellipse cx="16" cy="16" rx="5.5" ry="12" fill="none" stroke="#1C69D4" stroke-width="1" opacity="0.7"/>
+  <line x1="4" y1="16" x2="28" y2="16" stroke="#1C69D4" stroke-width="1" opacity="0.7"/>
+  <path d="M10 8 L10 24 L17 24 Q22 24 22 19.5 Q22 17 19.5 16 Q21.5 15 21.5 12 Q21.5 8 17 8 Z M12.5 10.5 L17 10.5 Q19 10.5 19 12.5 Q19 14.5 17 14.5 L12.5 14.5 Z M12.5 16 L18 16 Q20 16 20 19 Q20 22 18 22 L12.5 22 Z" fill="#C9A24B"/>
+  <path d="M28 16 A12 12 0 0 1 16 28" fill="none" stroke="#C9A24B" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-labelledby="gmTitle">
+  <title id="gmTitle">Globe wireframe — world map meridians background</title>
+  <g stroke="#1C69D4" fill="none" stroke-width="0.8" opacity="0.3">
+    <!-- Equator -->
+    <ellipse cx="300" cy="300" rx="260" ry="260"/>
+    <!-- Latitudes -->
+    <ellipse cx="300" cy="300" rx="260" ry="200"/>
+    <ellipse cx="300" cy="300" rx="260" ry="140"/>
+    <ellipse cx="300" cy="300" rx="260" ry="80"/>
+    <ellipse cx="300" cy="300" rx="260" ry="20"/>
+    <!-- Longitudes -->
+    <ellipse cx="300" cy="300" rx="200" ry="260"/>
+    <ellipse cx="300" cy="300" rx="140" ry="260"/>
+    <ellipse cx="300" cy="300" rx="80" ry="260"/>
+    <ellipse cx="300" cy="300" rx="20" ry="260"/>
+    <line x1="40" y1="300" x2="560" y2="300"/>
+    <line x1="300" y1="40" x2="300" y2="560"/>
+    <!-- Curved meridians -->
+    <path d="M300 40 Q420 200 300 560"/>
+    <path d="M300 40 Q180 200 300 560"/>
+    <path d="M300 40 Q500 300 300 560"/>
+    <path d="M300 40 Q100 300 300 560"/>
+  </g>
+  <!-- Faint continent hints -->
+  <g fill="#1C69D4" opacity="0.12" stroke="none">
+    <!-- Eurasia hint -->
+    <path d="M180 200 Q220 180 280 200 Q340 180 380 220 Q400 260 360 280 Q300 270 240 290 Q200 280 180 240 Z"/>
+    <!-- Africa hint -->
+    <path d="M260 290 Q300 280 320 320 Q330 380 300 420 Q280 400 270 360 Z"/>
+    <!-- Americas hint -->
+    <path d="M120 200 Q150 180 170 220 Q180 280 160 340 Q140 400 120 360 Q100 280 120 200 Z"/>
+    <path d="M180 360 Q200 340 220 380 Q220 460 200 480 Q180 460 180 360 Z"/>
+    <!-- Australia hint -->
+    <path d="M420 380 Q460 370 480 400 Q470 420 440 420 Q420 410 420 380 Z"/>
+  </g>
+</svg>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-labelledby="divTitle">
-  <title id="divTitle">Section divider wave</title>
-  <path d="M0 20 Q150 6 300 20 T600 20 T900 20 T1200 20" fill="none" stroke="#1C69D4" stroke-width="2" stroke-linecap="round"/>
-  <path d="M0 28 Q150 18 300 28 T600 28 T900 28 T1200 28" fill="none" stroke="#1C69D4" stroke-width="1.2" stroke-linecap="round" opacity="0.5"/>
-  <circle cx="600" cy="20" r="3" fill="#C9A24B"/>
-</svg>
